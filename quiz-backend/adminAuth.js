@@ -2,7 +2,7 @@
 const jwt = require('jsonwebtoken');
 
 
-const JWT_SECRET = 'your_jwt_secret_key'; // Change this to a strong secret
+const JWT_SECRET = process.env.JWT_SECRET || 'your_fallback_secret';
 
 // Check admin credentials from DB
 async function checkAdminCredentials(username, password, poolPromise, sql) {

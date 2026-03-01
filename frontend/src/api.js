@@ -1,4 +1,4 @@
-const BASE_URL = "http://172.29.185.8:5050"; // Updated backend port
+const BASE_URL = process.env.REACT_APP_API_URL || "http://localhost:5050";
 
 // Helper to handle fetch responses and errors
 const checkResponse = async (res) => {

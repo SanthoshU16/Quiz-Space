@@ -8,7 +8,7 @@ const { JWT_SECRET, authenticateAdmin, checkAdminCredentials } = require("./admi
 const jwt = require("jsonwebtoken");
 
 const app = express();
-const PORT = 5050;
+const PORT = process.env.PORT || 5050;
 
 app.use(cors());
 app.use(express.json());
