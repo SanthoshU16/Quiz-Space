@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Which of the following is a major challenge in training very deep neural networks?",
+    "choices": ["Vanishing Gradients", "Overfitting", "Underfitting", "High Learning Rate"],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "text": "Which technique is used to accelerate convergence in deep networks by normalizing inputs to each layer?",
+    "choices": ["Dropout", "Batch Normalization", "Gradient Clipping", "Early Stopping"],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "text": "In NLP, attention mechanisms are primarily used to:",
+    "choices": ["Focus on important parts of input sequences", "Reduce model size", "Increase training speed", "Cluster similar words"],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "text": "Which type of GAN is used to generate high-resolution images?",
+    "choices": ["DCGAN", "StyleGAN", "WGAN", "CycleGAN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "text": "Which RL algorithm uses policy gradients to optimize the agent's behavior directly?",
+    "choices": ["Q-Learning", "SARSA", "REINFORCE", "Dijkstra"],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "text": "Which of these is used to measure similarity between two probability distributions?",
+    "choices": ["KL Divergence", "MSE", "Accuracy", "R² Score"],
+    "answerIndex": 0
+  },
+  {
+    "id": 7,
+    "text": "Which model architecture is commonly used in sequence-to-sequence tasks like translation?",
+    "choices": ["CNN", "RNN Encoder-Decoder", "GAN", "Decision Tree"],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "text": "Which technique in ML is used to handle imbalanced datasets by generating synthetic samples?",
+    "choices": ["SMOTE", "PCA", "Dropout", "Bagging"],
+    "answerIndex": 0
+  },
+  {
+    "id": 9,
+    "text": "Which optimization technique uses second-order derivatives for faster convergence?",
+    "choices": ["Adam", "SGD", "Newton’s Method", "RMSProp"],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "text": "Which method is used in deep learning to prevent catastrophic forgetting in continual learning?",
+    "choices": ["Elastic Weight Consolidation", "Dropout", "Batch Normalization", "Data Augmentation"],
+    "answerIndex": 0
+  },
+  {
+    "id": 11,
+    "text": "Which AI model introduced the concept of self-attention in NLP?",
+    "choices": ["RNN", "Transformer", "LSTM", "BERT"],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "text": "Which of the following is used to compress large deep learning models for deployment?",
+    "choices": ["Quantization", "Pruning", "Knowledge Distillation", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 13,
+    "text": "Which evaluation metric is appropriate for multi-class classification with imbalanced classes?",
+    "choices": ["Macro F1 Score", "Accuracy", "MSE", "R² Score"],
+    "answerIndex": 0
+  },
+  {
+    "id": 14,
+    "text": "Which type of autoencoder is used for generating data similar to training examples?",
+    "choices": ["Variational Autoencoder", "Sparse Autoencoder", "Denoising Autoencoder", "Convolutional Autoencoder"],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "text": "Which of these helps in improving generalization in deep reinforcement learning?",
+    "choices": ["Experience Replay", "Target Networks", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "text": "Which loss function is used for Wasserstein GANs?",
+    "choices": ["Cross-Entropy", "Wasserstein Loss", "Hinge Loss", "MSE"],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "text": "Which neural network is particularly suited for time-series forecasting?",
+    "choices": ["RNN", "CNN", "GAN", "Decision Tree"],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "text": "Which technique in deep learning helps in stabilizing RNN training over long sequences?",
+    "choices": ["Gradient Clipping", "Dropout", "Batch Normalization", "SMOTE"],
+    "answerIndex": 0
+  },
+  {
+    "id": 19,
+    "text": "Which of these is a method to improve exploration in reinforcement learning?",
+    "choices": ["Epsilon-Greedy", "Softmax Action Selection", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "text": "Which transformer-based model is widely used for NLP fine-tuning tasks?",
+    "choices": ["GPT", "BERT", "Transformer-XL", "XLNet"],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "text": "Which of the following is an example of self-supervised learning?",
+    "choices": ["BERT Masked Language Modeling", "Linear Regression", "K-Means", "Naive Bayes"],
+    "answerIndex": 0
+  },
+  {
+    "id": 22,
+    "text": "Which optimization algorithm adapts learning rates per parameter using moving averages of past gradients?",
+    "choices": ["Adam", "SGD", "Momentum", "RMSProp"],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "text": "Which regularization technique penalizes large weights by adding their squared values to loss?",
+    "choices": ["L1 Regularization", "L2 Regularization", "Dropout", "Data Augmentation"],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "text": "Which method is commonly used for explainable AI in deep learning?",
+    "choices": ["LIME", "SHAP", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "text": "Which of these models can generate text based on context?",
+    "choices": ["GPT", "CNN", "Random Forest", "SVM"],
+    "answerIndex": 0
+  },
+  {
+    "id": 26,
+    "text": "Which of these techniques helps reduce overfitting by averaging predictions from multiple models?",
+    "choices": ["Bagging", "Boosting", "Stacking", "All of the Above"],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "text": "Which attention mechanism is used in transformers for capturing relationships between all tokens in a sequence?",
+    "choices": ["Self-Attention", "Cross-Attention", "Global Attention", "Local Attention"],
+    "answerIndex": 0
+  },
+  {
+    "id": 28,
+    "text": "Which evaluation metric is commonly used for object detection in computer vision?",
+    "choices": ["IoU (Intersection over Union)", "Accuracy", "MSE", "F1 Score"],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "text": "Which neural network layer type is often used for feature extraction in images?",
+    "choices": ["Convolutional Layer", "Dense Layer", "LSTM Layer", "Embedding Layer"],
+    "answerIndex": 0
+  },
+  {
+    "id": 30,
+    "text": "Which of the following improves convergence in training deep networks by normalizing gradients?",
+    "choices": ["Gradient Clipping", "Batch Normalization", "Dropout", "L1 Regularization"],
+    "answerIndex": 0
+  },
+  {
+    "id": 31,
+    "text": "Which of these AI models is designed to process graph-structured data?",
+    "choices": ["Graph Neural Networks", "CNN", "RNN", "Transformer"],
+    "answerIndex": 0
+  },
+  {
+    "id": 32,
+    "text": "Which technique can be used to balance exploration and exploitation in RL?",
+    "choices": ["Epsilon-Greedy", "Upper Confidence Bound", "Thompson Sampling", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 33,
+    "text": "Which deep learning technique is used to generate high-quality images from low-resolution inputs?",
+    "choices": ["Super-Resolution CNN", "GAN", "RNN", "Decision Tree"],
+    "answerIndex": 0
+  },
+  {
+    "id": 34,
+    "text": "Which algorithm is used for dimensionality reduction while preserving local structure?",
+    "choices": ["t-SNE", "PCA", "LDA", "K-Means"],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "text": "Which method is used to handle class imbalance in deep learning?",
+    "choices": ["Weighted Loss", "Oversampling", "Focal Loss", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 36,
+    "text": "Which type of neural network is widely used in speech recognition?",
+    "choices": ["RNN/LSTM", "CNN", "GAN", "Decision Tree"],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "text": "Which approach in ML is used when labeled data is scarce?",
+    "choices": ["Semi-Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Supervised Learning"],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "text": "Which transformer variant is designed for long-context tasks?",
+    "choices": ["Transformer-XL", "BERT", "GPT-2", "RNN"],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "text": "Which of the following is used for causal inference in ML?",
+    "choices": ["Structural Equation Modeling", "Random Forest", "SVM", "K-Means"],
+    "answerIndex": 0
+  },
+  {
+    "id": 40,
+    "text": "Which model uses both generator and discriminator networks?",
+    "choices": ["GAN", "VAE", "RNN", "CNN"],
+    "answerIndex": 0
+  },
+  {
+    "id": 41,
+    "text": "Which technique is used for uncertainty estimation in deep learning predictions?",
+    "choices": ["Monte Carlo Dropout", "Bootstrap Aggregation", "Bayesian Neural Networks", "Both 1 and 3"],
+    "answerIndex": 3
+  },
+  {
+    "id": 42,
+    "text": "Which method helps in continual learning to retain previous knowledge?",
+    "choices": ["Elastic Weight Consolidation", "Dropout", "Batch Normalization", "Gradient Clipping"],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "text": "Which of the following is a state-of-the-art object detection model?",
+    "choices": ["YOLOv5", "R-CNN", "Faster R-CNN", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 44,
+    "text": "Which of the following is a limitation of reinforcement learning in real-world scenarios?",
+    "choices": ["Sample Inefficiency", "High Computational Cost", "Exploration Risk", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 45,
+    "text": "Which of the following is a common pre-training task for transformers?",
+    "choices": ["Masked Language Modeling", "Next Sentence Prediction", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 46,
+    "text": "Which deep learning model is widely used for video classification?",
+    "choices": ["3D CNN", "RNN", "GAN", "Transformer"],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "text": "Which of the following is a graph-based recommendation method?",
+    "choices": ["Graph Convolutional Network", "Collaborative Filtering", "Decision Trees", "KNN"],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "text": "Which metric evaluates ranking performance in information retrieval?",
+    "choices": ["NDCG", "Precision", "Recall", "F1 Score"],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "text": "Which AI method is used for protein structure prediction?",
+    "choices": ["AlphaFold", "GAN", "RNN", "CNN"],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "text": "Which technique in deep learning combines multiple models to improve accuracy?",
+    "choices": ["Ensemble Learning", "Regularization", "Data Augmentation", "Dropout"],
+    "answerIndex": 0
+  }
+]

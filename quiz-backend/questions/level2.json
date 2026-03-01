@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Which algorithm is commonly used for training deep neural networks?",
+    "choices": ["Gradient Descent", "K-Means", "Apriori", "PageRank"],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "text": "What does 'overfitting' in machine learning mean?",
+    "choices": ["Model performs well on training data but poorly on new data", "Model performs equally on all datasets", "Model ignores training data", "Model always gives random predictions"],
+    "answerIndex": 0
+  },
+  {
+    "id": 3,
+    "text": "In Natural Language Processing, 'word embeddings' are used to:",
+    "choices": ["Store images", "Convert text into numerical vectors", "Encrypt messages", "Translate languages directly"],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "text": "Which of these is an example of dimensionality reduction?",
+    "choices": ["PCA", "Linear Regression", "KNN", "Naive Bayes"],
+    "answerIndex": 0
+  },
+  {
+    "id": 5,
+    "text": "Which neural network architecture is best suited for image recognition?",
+    "choices": ["CNN", "RNN", "GAN", "Transformer"],
+    "answerIndex": 0
+  },
+  {
+    "id": 6,
+    "text": "Which evaluation metric is most suitable for imbalanced classification problems?",
+    "choices": ["Accuracy", "Precision-Recall", "R² Score", "MSE"],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "text": "The vanishing gradient problem is most commonly associated with:",
+    "choices": ["Decision Trees", "Shallow Networks", "Deep Neural Networks", "K-Means Clustering"],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "text": "Which ML algorithm is considered 'instance-based' learning?",
+    "choices": ["KNN", "Naive Bayes", "Logistic Regression", "Decision Tree"],
+    "answerIndex": 0
+  },
+  {
+    "id": 9,
+    "text": "Which AI technique powers recommendation systems like Netflix or Amazon?",
+    "choices": ["Clustering", "Collaborative Filtering", "Decision Trees", "PageRank"],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "text": "What is the purpose of dropout in neural networks?",
+    "choices": ["Increase overfitting", "Reduce computation speed", "Prevent overfitting by randomly disabling neurons", "Convert model into regression"],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "text": "Which optimizer is widely used in training deep learning models?",
+    "choices": ["SGD", "Adam", "Adagrad", "All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 12,
+    "text": "Which AI concept is inspired by how the human brain works?",
+    "choices": ["Decision Trees", "Neural Networks", "Clustering", "SVM"],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "text": "Which ML model is most suitable for predicting continuous numerical values?",
+    "choices": ["Logistic Regression", "Linear Regression", "Naive Bayes", "KNN Classification"],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "text": "Which of the following is a type of reinforcement learning algorithm?",
+    "choices": ["Q-Learning", "K-Means", "Naive Bayes", "PCA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "text": "Which technology powers self-driving cars the most?",
+    "choices": ["Expert Systems", "Computer Vision + Deep Learning", "Rule-based AI", "Blockchain"],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "text": "Which of the following is NOT a type of neural network?",
+    "choices": ["Convolutional Neural Network", "Recurrent Neural Network", "Generative Adversarial Network", "Relational Neural Network"],
+    "answerIndex": 3
+  },
+  {
+    "id": 17,
+    "text": "Which of the following datasets is commonly used for image recognition benchmarking?",
+    "choices": ["MNIST", "CIFAR-10", "ImageNet", "All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 18,
+    "text": "In AI, which term describes the ability to transfer knowledge from one task to another?",
+    "choices": ["Overfitting", "Transfer Learning", "Regularization", "Clustering"],
+    "answerIndex": 1
+  },
+  {
+    "id": 19,
+    "text": "Which technique helps in reducing bias in training data?",
+    "choices": ["Cross-validation", "Data Augmentation", "Feature Scaling", "Batch Normalization"],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "text": "Which of these AI concepts is used in fraud detection systems?",
+    "choices": ["Classification", "Regression", "Clustering", "PCA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 21,
+    "text": "Which of the following is used for feature scaling in ML?",
+    "choices": ["Normalization", "Standardization", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "text": "Which algorithm is widely used for text classification tasks?",
+    "choices": ["Naive Bayes", "K-Means", "DBSCAN", "Apriori"],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "text": "Which of these is a generative AI model?",
+    "choices": ["RNN", "GAN", "SVM", "Random Forest"],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "text": "Which AI technique helps in real-time object detection?",
+    "choices": ["YOLO", "PCA", "RNN", "DBSCAN"],
+    "answerIndex": 0
+  },
+  {
+    "id": 25,
+    "text": "Which loss function is used for multi-class classification?",
+    "choices": ["Mean Squared Error", "Cross-Entropy Loss", "Hinge Loss", "L1 Loss"],
+    "answerIndex": 1
+  },
+  {
+    "id": 26,
+    "text": "Which technique helps in reducing training time of deep networks?",
+    "choices": ["Batch Normalization", "Dropout", "Data Augmentation", "Clustering"],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "text": "Which reinforcement learning algorithm uses Q-values?",
+    "choices": ["SARSA", "Q-Learning", "Both", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "text": "Which Python library is widely used for machine learning?",
+    "choices": ["TensorFlow", "Scikit-learn", "Pandas", "Matplotlib"],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "text": "Which activation function outputs values between 0 and 1?",
+    "choices": ["ReLU", "Sigmoid", "Tanh", "Softmax"],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "text": "Which of these is a method for unsupervised clustering?",
+    "choices": ["K-Means", "Linear Regression", "Logistic Regression", "Naive Bayes"],
+    "answerIndex": 0
+  },
+  {
+    "id": 31,
+    "text": "Which AI approach is commonly used for anomaly detection?",
+    "choices": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Rule-Based Systems"],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "text": "Which of these is a type of sequence model in NLP?",
+    "choices": ["CNN", "RNN", "GAN", "DBSCAN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 33,
+    "text": "Which of these is a common method to prevent overfitting in ML?",
+    "choices": ["Early Stopping", "Dropout", "Regularization", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 34,
+    "text": "Which method is used to evaluate classification models?",
+    "choices": ["Confusion Matrix", "MSE", "RMSE", "PCA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "text": "Which deep learning architecture is used for text translation?",
+    "choices": ["CNN", "RNN/LSTM", "GAN", "Decision Tree"],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "text": "Which AI technique generates new realistic data similar to training data?",
+    "choices": ["GANs", "KNN", "Linear Regression", "Decision Trees"],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "text": "Which optimizer adapts learning rates based on past gradients?",
+    "choices": ["SGD", "Adam", "RMSProp", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 38,
+    "text": "Which of these is used for sequential decision-making problems?",
+    "choices": ["Reinforcement Learning", "Supervised Learning", "Unsupervised Learning", "PCA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "text": "Which library is best for deep learning with GPUs?",
+    "choices": ["TensorFlow", "Scikit-learn", "Pandas", "Matplotlib"],
+    "answerIndex": 0
+  },
+  {
+    "id": 40,
+    "text": "Which algorithm is suitable for high-dimensional sparse data?",
+    "choices": ["SVM", "Decision Tree", "KNN", "PCA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 41,
+    "text": "Which AI technique is widely used in autonomous drones?",
+    "choices": ["Computer Vision + RL", "Clustering", "Decision Trees", "SVM"],
+    "answerIndex": 0
+  },
+  {
+    "id": 42,
+    "text": "Which type of learning uses both labeled and unlabeled data?",
+    "choices": ["Supervised", "Unsupervised", "Semi-supervised", "Reinforcement"],
+    "answerIndex": 2
+  },
+  {
+    "id": 43,
+    "text": "Which of these is used to prevent gradient explosion in RNNs?",
+    "choices": ["Gradient Clipping", "Dropout", "Batch Normalization", "Data Augmentation"],
+    "answerIndex": 0
+  },
+  {
+    "id": 44,
+    "text": "Which of the following helps AI models generalize better?",
+    "choices": ["Data Augmentation", "Regularization", "Early Stopping", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 45,
+    "text": "Which ML model is inherently interpretable?",
+    "choices": ["Linear Regression", "Neural Networks", "Random Forest", "GANs"],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "text": "Which of the following is used to store pre-trained models for deployment?",
+    "choices": ["Pickle (.pkl)", "CSV", "TXT", "JPEG"],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "text": "Which of these is a key challenge in reinforcement learning?",
+    "choices": ["Exploration vs Exploitation", "Dimensionality Reduction", "Clustering", "Overfitting"],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "text": "Which ML approach is commonly used for customer segmentation?",
+    "choices": ["Clustering", "Regression", "Classification", "Reinforcement Learning"],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "text": "Which neural network type is used in GANs?",
+    "choices": ["Generator and Discriminator", "RNN only", "CNN only", "Autoencoder only"],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "text": "Which AI technology is commonly used for chatbots?",
+    "choices": ["NLP", "Computer Vision", "GAN", "Clustering"],
+    "answerIndex": 0
+  }
+]

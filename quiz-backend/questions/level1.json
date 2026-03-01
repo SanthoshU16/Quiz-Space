@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Which of the following is considered the father of Artificial Intelligence?",
+    "choices": ["Alan Turing", "John McCarthy", "Geoffrey Hinton", "Elon Musk"],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "text": "Which of the following is an application of AI?",
+    "choices": ["Autonomous Cars", "Smart Assistants", "Medical Diagnosis", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 3,
+    "text": "Which programming language is most popular for AI and ML?",
+    "choices": ["Python", "C++", "Java", "Ruby"],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "text": "Which of the following is an AI-based voice assistant?",
+    "choices": ["Photoshop", "Alexa", "MS Word", "Excel"],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "text": "Which search algorithm is used in AI for traversing graphs and trees?",
+    "choices": ["Bubble Sort", "Depth First Search", "Binary Search", "Quick Sort"],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "text": "Which of the following best describes supervised learning?",
+    "choices": ["Learning without labels", "Learning with labeled data", "Learning through rewards", "Learning by clustering"],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "text": "Which of the following algorithms is commonly used for recommendation systems?",
+    "choices": ["Naive Bayes", "Collaborative Filtering", "Decision Trees", "Gradient Descent"],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "text": "Which technique is used to reduce the number of features while keeping most of the variance in data?",
+    "choices": ["K-Means", "PCA", "Naive Bayes", "Random Forest"],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "text": "Which evaluation metric is best for imbalanced classification problems?",
+    "choices": ["Accuracy", "Precision & Recall", "Mean Squared Error", "Variance"],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "text": "Which optimization algorithm improves Gradient Descent by adapting learning rates?",
+    "choices": ["SGD", "Adam", "Linear Regression", "Naive Bayes"],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "text": "Which of the following is a type of ensemble learning method?",
+    "choices": ["Dropout", "Random Forest", "Gradient Descent", "Softmax"],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "text": "Which layer in a neural network is responsible for transforming input features into abstract representations?",
+    "choices": ["Input Layer", "Hidden Layer", "Output Layer", "Dropout Layer"],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "text": "Which technology powers cryptocurrencies like Bitcoin?",
+    "choices": ["AI", "Blockchain", "Neural Networks", "Cloud Computing"],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "text": "Which type of neural network is commonly used for image classification?",
+    "choices": ["RNN", "CNN", "GAN", "LSTM"],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "text": "Which loss function is most suitable for regression problems?",
+    "choices": ["Cross-Entropy Loss", "Mean Squared Error", "Hinge Loss", "Categorical Loss"],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "text": "Which Google AI model is designed for NLP and introduced the 'Transformer' concept?",
+    "choices": ["BERT", "AlphaGo", "Watson", "Siri"],
+    "answerIndex": 0
+  },
+  {
+    "id": 17,
+    "text": "Which of the following best describes reinforcement learning?",
+    "choices": ["Learning from labeled data", "Learning from unlabeled data", "Learning by trial and error with rewards", "Learning with dimensionality reduction"],
+    "answerIndex": 2
+  },
+  {
+    "id": 18,
+    "text": "Which database type is best suited for storing graph relationships?",
+    "choices": ["SQL", "NoSQL", "Graph Database", "Key-Value Store"],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "text": "Which regularization method in ML adds a penalty based on the absolute value of coefficients?",
+    "choices": ["L1 Regularization (Lasso)", "L2 Regularization (Ridge)", "Dropout", "Batch Normalization"],
+    "answerIndex": 0
+  },
+  {
+    "id": 20,
+    "text": "Which of the following is a limitation of decision trees?",
+    "choices": ["High interpretability", "Overfitting", "Handling categorical data", "Non-parametric nature"],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "text": "Which of these is a major advantage of using cloud computing for AI projects?",
+    "choices": ["Higher local storage cost", "Limited scalability", "On-demand resources", "Manual updates"],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "text": "Which ML algorithm is commonly used for spam email detection?",
+    "choices": ["Naive Bayes", "K-Means", "KNN", "Apriori"],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "text": "Which deep learning model is widely used for generating realistic images?",
+    "choices": ["CNN", "RNN", "GAN", "SVM"],
+    "answerIndex": 2
+  },
+  {
+    "id": 24,
+    "text": "Which component of AI focuses on giving machines the ability to see and interpret images?",
+    "choices": ["Natural Language Processing", "Reinforcement Learning", "Computer Vision", "Robotics"],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "text": "Which type of ML task is sentiment analysis an example of?",
+    "choices": ["Clustering", "Classification", "Regression", "Dimensionality Reduction"],
+    "answerIndex": 1
+  },
+  {
+    "id": 26,
+    "text": "Which concept in ML is used to handle large numbers of features by selecting only the most important ones?",
+    "choices": ["Regularization", "Feature Selection", "Clustering", "Gradient Descent"],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "text": "Which of the following is used to prevent overfitting in neural networks?",
+    "choices": ["Dropout", "MaxPooling", "Batch Normalization", "All of the Above"],
+    "answerIndex": 0
+  },
+  {
+    "id": 28,
+    "text": "Which AI system defeated world champion Lee Sedol in the game of Go?",
+    "choices": ["Watson", "AlphaGo", "Deep Blue", "BERT"],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "text": "Which of the following is NOT an unsupervised learning algorithm?",
+    "choices": ["K-Means", "Apriori", "DBSCAN", "Logistic Regression"],
+    "answerIndex": 3
+  },
+  {
+    "id": 30,
+    "text": "Which concept refers to machines being able to learn continuously, improving with new data?",
+    "choices": ["One-shot learning", "Online learning", "Batch learning", "Transfer learning"],
+    "answerIndex": 1
+  },
+  {
+    "id": 31,
+    "text": "Which evaluation metric is preferred for ranking problems like search engines?",
+    "choices": ["Precision", "Recall", "NDCG", "MSE"],
+    "answerIndex": 2
+  },
+  {
+    "id": 32,
+    "text": "Which of the following is a disadvantage of k-NN?",
+    "choices": ["Simple to implement", "No training phase", "Computationally expensive at prediction time", "Works well with high dimensions"],
+    "answerIndex": 2
+  },
+  {
+    "id": 33,
+    "text": "Which component in Transformers is responsible for understanding word context?",
+    "choices": ["Pooling", "Attention", "Dropout", "Convolution"],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "text": "Which ML model is known as a universal approximator?",
+    "choices": ["Linear Regression", "Neural Networks", "Decision Trees", "KNN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 35,
+    "text": "Which ML concept is applied when using past knowledge to solve new but related tasks?",
+    "choices": ["Online Learning", "Transfer Learning", "Reinforcement Learning", "Semi-Supervised Learning"],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "text": "Which of the following is NOT a common activation function in deep learning?",
+    "choices": ["ReLU", "Sigmoid", "Softmax", "Euclidean"],
+    "answerIndex": 3
+  },
+  {
+    "id": 37,
+    "text": "Which AI technique allows machines to create new content, such as art or music?",
+    "choices": ["GANs", "CNNs", "Decision Trees", "RNNs"],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "text": "Which of the following is the main purpose of a confusion matrix?",
+    "choices": ["Measure runtime", "Show classification performance", "Reduce dimensionality", "Select features"],
+    "answerIndex": 1
+  },
+  {
+    "id": 39,
+    "text": "Which file format is often used for saving trained ML models in Python?",
+    "choices": ["CSV", "Pickle (.pkl)", "MP4", "TXT"],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "text": "Which of the following is an example of reinforcement learning in daily life?",
+    "choices": ["Spam filtering", "Self-driving cars learning traffic rules", "Movie recommendation", "Clustering customers"],
+    "answerIndex": 1
+  },
+  {
+    "id": 41,
+    "text": "Which algorithm is used for finding associations in transactional data?",
+    "choices": ["Apriori", "SVM", "KNN", "Random Forest"],
+    "answerIndex": 0
+  },
+  {
+    "id": 42,
+    "text": "Which of the following is an example of dimensionality reduction?",
+    "choices": ["PCA", "KNN", "Naive Bayes", "Decision Tree"],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "text": "Which of these is a non-parametric algorithm?",
+    "choices": ["KNN", "Linear Regression", "Logistic Regression", "Perceptron"],
+    "answerIndex": 0
+  },
+  {
+    "id": 44,
+    "text": "Which part of AI is concerned with enabling machines to understand human speech?",
+    "choices": ["Computer Vision", "NLP", "Reinforcement Learning", "Robotics"],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "text": "Which of the following best describes clustering?",
+    "choices": ["Grouping unlabeled data", "Predicting continuous values", "Classifying labeled data", "Reducing variance"],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "text": "Which evaluation metric is most commonly used for regression?",
+    "choices": ["Accuracy", "Precision", "RMSE", "F1 Score"],
+    "answerIndex": 2
+  },
+  {
+    "id": 47,
+    "text": "Which neural network architecture is most commonly used for sequential data?",
+    "choices": ["CNN", "RNN", "GAN", "DBSCAN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "text": "Which of these models is primarily rule-based rather than data-driven?",
+    "choices": ["Expert Systems", "Neural Networks", "Decision Trees", "Random Forests"],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "text": "Which method can be used to handle missing data in a dataset?",
+    "choices": ["Delete rows", "Impute values", "Use algorithms that handle missing data", "All of the Above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 50,
+    "text": "Which of these is an example of an AI system in healthcare?",
+    "choices": ["Autonomous Diagnosis", "AI in Medical Imaging", "Drug Discovery", "All of the Above"],
+    "answerIndex": 3
+  }
+]
